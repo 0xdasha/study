@@ -1,0 +1,14 @@
+references:
+[1] SOCKS Protocol Version 5: https://datatracker.ietf.org/doc/html/rfc1928
+[2] SOCKS Protocol: https://en.wikipedia.org/wiki/SOCKS
+[3] SOCKS5 - A Proxy Protocol: https://medium.com/@nimit95/socks-5-a-proxy-protocol-b741d3bec66c
+
+== [ pre-research initial questions ] ==
+  [] Why was SOCKS created?
+  [] Why is it used?
+  [] Where is it used?
+  [] What is the protocol?
+  [] What are the version differences?
+  [] What implemenations exist?
+ 
+--/// BACKGROUND -----------------------------------------------------------------------------------
